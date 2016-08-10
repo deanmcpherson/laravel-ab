@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "clockwork82\\LaravelAb\\": "src"
+            "ComoCode\\LaravelAb\\": "src"
         }
     },
     "require": {}
