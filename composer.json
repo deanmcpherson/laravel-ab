@@ -11,11 +11,8 @@
         }
     ],
     "autoload": {
-        "classmap" : [
-            "tests"
-        ],
         "psr-4": {
-            "ComoCode\\LaravelAb\\": "src"
+            "clockwork82\\LaravelAb\\": "src"
         }
     },
     "require": {}
