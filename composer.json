@@ -1,5 +1,5 @@
 {
-    "name": "clockwork82/laravel-ab",
+    "name": "deanmcpherson/laravel-ab",
     "description": "Blade level AB tests for Laravel 5",
     "keywords": ["laravel", "ab", "ab tests"],
     "type": "library",
